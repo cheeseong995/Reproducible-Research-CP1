@@ -116,7 +116,7 @@ From the results, we see that there are higher frequency.
                     y})
     data_by_dates <- aggregate(steps~interval +datetype,data,mean,na.rm=TRUE)
 
-1.  Next, we make a panel plot containing the time series plot.
+1.  Next, we make a panel plot containing the time series plot.  
 
 <!-- -->
 
