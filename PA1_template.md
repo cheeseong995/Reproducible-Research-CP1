@@ -1,3 +1,5 @@
+    knitr::opts_chunk$set(echo = TRUE)
+
 Assignment 1 (Reproducible Results)
 ===================================
 
